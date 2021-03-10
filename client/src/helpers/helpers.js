@@ -1,0 +1,1 @@
+export function toBoolean(booleanString) { return booleanString === 'true' };
